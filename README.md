@@ -1,9 +1,9 @@
 ## Setup
 
-	Go cloneed folder directory
+Go cloned proje folder 
 	
-	### `npm install`
-	### `npm start`
+### `npm install`
+### `npm start`
 	
 
 Runs the app in the development mode.<br>
