@@ -1,4 +1,4 @@
-This is the first week for and the first project with React a bit spaghetti :\
+This is the first week and the first project with React a bit spaghetti :\
 ## Setup
 
 Go cloned proje folder 
