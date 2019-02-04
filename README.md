@@ -39,6 +39,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Learn how to create a MVC web service for this client 
 
-### `https://github.com/rfatcakr/todolist_WebService`
-
+<https://github.com/rfatcakr/todolist_WebService>
 
